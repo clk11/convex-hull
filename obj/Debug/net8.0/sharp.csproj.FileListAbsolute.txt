@@ -1,0 +1,14 @@
+C:\Users\trasc\sharp\bin\Debug\net8.0\sharp.exe
+C:\Users\trasc\sharp\bin\Debug\net8.0\sharp.deps.json
+C:\Users\trasc\sharp\bin\Debug\net8.0\sharp.runtimeconfig.json
+C:\Users\trasc\sharp\bin\Debug\net8.0\sharp.dll
+C:\Users\trasc\sharp\bin\Debug\net8.0\sharp.pdb
+C:\Users\trasc\sharp\obj\Debug\net8.0\sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trasc\sharp\obj\Debug\net8.0\sharp.AssemblyInfoInputs.cache
+C:\Users\trasc\sharp\obj\Debug\net8.0\sharp.AssemblyInfo.cs
+C:\Users\trasc\sharp\obj\Debug\net8.0\sharp.csproj.CoreCompileInputs.cache
+C:\Users\trasc\sharp\obj\Debug\net8.0\sharp.dll
+C:\Users\trasc\sharp\obj\Debug\net8.0\refint\sharp.dll
+C:\Users\trasc\sharp\obj\Debug\net8.0\sharp.pdb
+C:\Users\trasc\sharp\obj\Debug\net8.0\sharp.genruntimeconfig.cache
+C:\Users\trasc\sharp\obj\Debug\net8.0\ref\sharp.dll
